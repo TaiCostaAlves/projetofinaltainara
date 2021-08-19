@@ -1,0 +1,39 @@
+
+.titulo{
+font-size: 20x;
+color:white;
+text-align: center;}
+
+.subtitulo {font-size: 20px;
+text-align: center;
+color:white}
+
+.introducao{
+    margin: 20 px 0;
+        text-align:center;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: normal;
+}
+  .texto {
+      color:whitesmoke;
+  }  
+
+
+body { background-image: url(../images/cenainicial.jpg);
+background-attachment: fixed;
+background-size: 100%;
+background-repeat: no-repeat;
+background-color: #000;
+}
+
+.resposta
+ {
+color: whitesmoke;
+font-size: 20px;
+}
+
+.pergunta {
+    color: whitesmoke;
+font-size: 20px;
+}
